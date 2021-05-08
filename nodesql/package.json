@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
-    "lodash": "4.17.13",
+    "lodash": "4.17.21",
     "mysql": "^2.16.0"
   }
 }
